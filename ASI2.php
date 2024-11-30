@@ -39,7 +39,6 @@ if ($result === NULL) {
 </head>
 <body>
     <main>
-        <h1>Students Nationalities Data</h1>
         <div class="overflow-auto">
             <table>
                 <thead>
@@ -69,4 +68,3 @@ if ($result === NULL) {
     </main>
 </body>
 </html>
-
