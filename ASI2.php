@@ -17,7 +17,6 @@ if ($result === NULL) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Students Nationalities Data</title>
     <link rel="stylesheet" href="https://unpkg.com/pico-css/dist/pico.min.css">
     <style>
         table {
